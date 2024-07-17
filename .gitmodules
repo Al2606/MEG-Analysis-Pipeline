@@ -1,0 +1,3 @@
+[submodule "sPyEEG"]
+	path = sPyEEG
+	url = https://github.com/phg17/sPyEEG.git
